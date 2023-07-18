@@ -2157,10 +2157,6 @@
     "modified": "2019-03-18T21:01:56.380Z",
     "contributors": ["thiagopelizoni"]
   },
-  "Mozilla/Add-ons/WebExtensions/Prerequisites": {
-    "modified": "2019-03-23T22:48:17.751Z",
-    "contributors": ["IgorOFC", "jlamim"]
-  },
   "Mozilla/Add-ons/WebExtensions/What_are_WebExtensions": {
     "modified": "2019-03-18T21:05:24.593Z",
     "contributors": ["fthiagogv", "Mostard"]
@@ -11494,6 +11490,10 @@
   "orphaned/MDN/Yari": {
     "modified": "2019-09-09T15:53:42.526Z",
     "contributors": ["SphinxKnight", "wbamberg", "richellyitalo"]
+  },
+  "orphaned/Mozilla/Add-ons/WebExtensions/Prerequisites": {
+    "modified": "2019-03-23T22:48:17.751Z",
+    "contributors": ["IgorOFC", "jlamim"]
   },
   "orphaned/Mozilla/Add-ons/WebExtensions/Temporary_Installation_in_Firefox": {
     "modified": "2019-03-18T21:15:50.836Z",
